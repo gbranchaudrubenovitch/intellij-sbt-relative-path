@@ -4,3 +4,4 @@
 *.ear
 /target
 /project/target
+/.idea
